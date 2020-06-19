@@ -87,5 +87,5 @@ def Interface():
 print('''programming by devil
     Snap : pz_a9
     IG : qq.hk''')
-input('Click Inter to continue...')
+input('Click Enter to continue...')
 Interface()
